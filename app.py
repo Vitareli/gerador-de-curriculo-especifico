@@ -8,7 +8,7 @@ from modules.analyzer import analyze
 from modules.generator import generate_resume
 from modules.exporter import markdown_to_docx
 
-st.set_page_config(page_title="TailorCV", page_icon="📄", layout="wide")
+st.set_page_config(page_title="Gerador de Currículo Específico", page_icon="📄", layout="wide")
 st.markdown("""
 <style>
 .block-container {padding-top: 2rem; max-width: 1450px;}
@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("TailorCV — Gerador de Currículo Específico")
+st.title("Gerador de Currículo Específico — TailorCV")
 st.caption("Perfil + vaga → análise ATS → currículo estratégico → Markdown/DOCX")
 
 if "analysis" not in st.session_state:

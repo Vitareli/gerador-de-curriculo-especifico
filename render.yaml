@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: tailorcv
+    name: gerador-de-curriculo-especifico
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
