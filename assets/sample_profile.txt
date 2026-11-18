@@ -1,0 +1,25 @@
+Ana Carolina Souza
+Engenheira de Software | Python | APIs | Dados
+São Paulo, SP | ana.souza@email.com | linkedin.com/in/anacs
+
+RESUMO
+Profissional com 5 anos de experiência em desenvolvimento de APIs Python, integração de sistemas e análise de dados.
+
+EXPERIÊNCIA
+Engenheira de Software — FinTech Aurora | 2022–2026
+- Desenvolveu APIs REST em Python e FastAPI usadas por 40 mil clientes.
+- Criou pipelines de dados com SQL e PostgreSQL, reduzindo o tempo de relatórios em 35%.
+- Colaborou com produto e dados em entregas ágeis usando Scrum.
+
+Analista de Desenvolvimento — Soluções Beta | 2019–2022
+- Automatizou processos internos com Python, economizando cerca de 8 horas semanais.
+- Manteve integrações com AWS, Docker e APIs externas.
+
+FORMAÇÃO
+Bacharelado em Sistemas de Informação — Universidade Federal, 2019
+
+COMPETÊNCIAS
+Python, FastAPI, SQL, PostgreSQL, Docker, AWS, Git, REST, APIs, Scrum, análise de dados
+
+IDIOMAS
+Português — nativo | Inglês — avançado
