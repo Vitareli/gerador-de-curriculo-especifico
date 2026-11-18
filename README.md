@@ -1,6 +1,8 @@
 # TailorCV — Gerador de Currículo Específico
 
+[![Repositório GitHub](https://img.shields.io/badge/GitHub-TailorCV-181717?logo=github&logoColor=white)](https://github.com/Vitareli/tailorcv)
 [![Deploy Render](https://img.shields.io/badge/Deploy-Render-46E3B7?logo=render&logoColor=white)](https://render.com)
+
 
 > Interface web pública destinada à análise de vagas, compatibilidade ATS e geração de currículos personalizados.
 
