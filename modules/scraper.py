@@ -12,7 +12,7 @@ def clean_text(text: str) -> str:
 def scrape_job_url(url: str, timeout: int = 20) -> str:
     if not url or not urlparse(url).scheme:
         return ""
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; TailorCV/1.0)"}
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; Gerador-de-Curriculo-Especifico/1.0)"}
     try:
         response = requests.get(url, headers=headers, timeout=timeout)
         response.raise_for_status()

@@ -1,4 +1,4 @@
-# TailorCV — Gerador de Currículo Específico
+# Gerador de Currículo Específico
 
 [![Repositório GitHub](https://img.shields.io/badge/GitHub-Gerador%20de%20Curr%C3%ADculo%20Espec%C3%ADfico-181717?logo=github&logoColor=white)](https://github.com/Vitareli/gerador-de-curriculo-especifico)
 [![Deploy Render](https://img.shields.io/badge/Deploy-Render-46E3B7?logo=render&logoColor=white)](https://render.com)
@@ -20,7 +20,7 @@ cp .env.example .env
 python -m playwright install chromium
 ```
 
-Configure `GOOGLE_API_KEY` no arquivo `.env`. Sem chave, o TailorCV executa uma análise local de fallback baseada em palavras-chave.
+Configure `GOOGLE_API_KEY` no arquivo `.env`. Sem chave, o Gerador de Currículo Específico executa uma análise local de fallback baseada em palavras-chave.
 
 ## Executar
 

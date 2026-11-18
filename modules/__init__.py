@@ -1,1 +1,1 @@
-"""TailorCV application modules."""
+"""Gerador de Currículo Específico application modules."""
